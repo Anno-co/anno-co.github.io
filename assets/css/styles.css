@@ -15,9 +15,7 @@ html, body {
   font-family: 'Montserrat', sans-serif;
   font-size: 5vw;
   font-weight: 300;
-  line-height: 1;
   padding: .7em 5vw .9em;
-  vertical-align: top;
 }
 
 .aco-emphasis {
